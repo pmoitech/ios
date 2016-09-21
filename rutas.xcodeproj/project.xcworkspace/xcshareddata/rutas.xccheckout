@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F3FCC139-B6C9-4643-BA4D-D198AA9E4D49</string>
+	<key>IDESourceControlProjectName</key>
+	<string>rutas</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8EC3F76B46278C96A6BC963CA829D6D1D705D762</key>
+		<string>https://github.com/pmoitech/rutas_padres-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/rutas.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8EC3F76B46278C96A6BC963CA829D6D1D705D762</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pmoitech/rutas_padres-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8EC3F76B46278C96A6BC963CA829D6D1D705D762</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8EC3F76B46278C96A6BC963CA829D6D1D705D762</string>
+			<key>IDESourceControlWCCName</key>
+			<string>rutas_padres</string>
+		</dict>
+	</array>
+</dict>
+</plist>
